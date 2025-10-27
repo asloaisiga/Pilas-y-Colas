@@ -1,0 +1,11 @@
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\bin\Debug\Ej05.exe.config
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\bin\Debug\Ej05.exe
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\bin\Debug\Ej05.pdb
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\obj\Debug\Ej05.csproj.AssemblyReference.cache
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\obj\Debug\Ej05.Form1.resources
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\obj\Debug\Ej05.Properties.Resources.resources
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\obj\Debug\Ej05.csproj.GenerateResource.cache
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\obj\Debug\Ej05.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\obj\Debug\Ej05.exe
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\obj\Debug\Ej05.pdb
+C:\Users\adolf\Documents\Programación_Estructurada\S_9\PilasYColas\Ej05\Ej05\obj\Debug\Ej05.exe.config

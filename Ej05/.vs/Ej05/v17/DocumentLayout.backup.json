@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adolf\\Documents\\Programaci\u00F3n_Estructurada\\S_9\\PilasYColas\\Ej05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30378-8D91-42D4-9B62-4E6AF684379E}|Ej05\\Ej05.csproj|c:\\users\\adolf\\documents\\programaci\u00F3n_estructurada\\s_9\\pilasycolas\\ej05\\ej05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0E30378-8D91-42D4-9B62-4E6AF684379E}|Ej05\\Ej05.csproj|solutionrelative:ej05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30378-8D91-42D4-9B62-4E6AF684379E}|Ej05\\Ej05.csproj|c:\\users\\adolf\\documents\\programaci\u00F3n_estructurada\\s_9\\pilasycolas\\ej05\\ej05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E30378-8D91-42D4-9B62-4E6AF684379E}|Ej05\\Ej05.csproj|solutionrelative:ej05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\adolf\\Documents\\Programaci\u00F3n_Estructurada\\S_9\\PilasYColas\\Ej05\\Ej05\\Form1.cs",
+              "RelativeDocumentMoniker": "Ej05\\Form1.cs",
+              "ToolTip": "C:\\Users\\adolf\\Documents\\Programaci\u00F3n_Estructurada\\S_9\\PilasYColas\\Ej05\\Ej05\\Form1.cs",
+              "RelativeToolTip": "Ej05\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wDcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T21:46:03.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adolf\\Documents\\Programaci\u00F3n_Estructurada\\S_9\\PilasYColas\\Ej05\\Ej05\\Form1.cs",
+              "RelativeDocumentMoniker": "Ej05\\Form1.cs",
+              "ToolTip": "C:\\Users\\adolf\\Documents\\Programaci\u00F3n_Estructurada\\S_9\\PilasYColas\\Ej05\\Ej05\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ej05\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T21:26:11.59Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
