@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\obj\Debug\Parentesis_#3.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\obj\Debug\Parentesis__3.Properties.Resources.resources
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\obj\Debug\Parentesis_#3.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\obj\Debug\Parentesis_#3.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\bin\Debug\Parentesis_#3.exe.config
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\bin\Debug\Parentesis_#3.exe
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\bin\Debug\Parentesis_#3.pdb
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\obj\Debug\Parentesis__3.Form1.resources
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\obj\Debug\Parentesis_#3.exe
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\obj\Debug\Parentesis_#3.pdb
+C:\Users\Owner\Documents\Prog_C#G5\Parentesis_#3\Parentesis_#3\obj\Debug\Parentesis_#3.exe.config
