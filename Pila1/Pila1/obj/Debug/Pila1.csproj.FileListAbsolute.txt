@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\bin\Debug\Pila1.exe.config
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\bin\Debug\Pila1.exe
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\bin\Debug\Pila1.pdb
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\obj\Debug\Pila1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\obj\Debug\Pila1.Form1.resources
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\obj\Debug\Pila1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\obj\Debug\Pila1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\obj\Debug\Pila1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\obj\Debug\Pila1.exe
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\obj\Debug\Pila1.pdb
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas\Pila1\Pila1\obj\Debug\Pila1.exe.config
