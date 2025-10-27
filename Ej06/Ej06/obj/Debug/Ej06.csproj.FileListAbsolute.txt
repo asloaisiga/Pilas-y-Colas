@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\bin\Debug\Ej06.exe.config
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\bin\Debug\Ej06.exe
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\bin\Debug\Ej06.pdb
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\obj\Debug\Ej06.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\obj\Debug\Ej06.ColaImpresión.resources
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\obj\Debug\Ej06.Properties.Resources.resources
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\obj\Debug\Ej06.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\obj\Debug\Ej06.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\obj\Debug\Ej06.exe
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\obj\Debug\Ej06.pdb
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Pilas y Colas I\Ej06\Ej06\obj\Debug\Ej06.exe.config
